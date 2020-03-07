@@ -1,0 +1,81 @@
+
+* {
+    font-family: sans-serif;
+}
+
+.content {
+    width: 400px;
+    height: 600px;
+    background-color: bisque;
+    border-radius: 7px;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.titulo {
+    background-color: coral;
+    width: 308px;
+    height: 50px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 0 0 7px 7px;
+    font-size: 30px;
+    color: #fff;
+}
+
+p {
+    font-size: 17px;
+}
+
+.versus {
+    font-size: 35px;
+    color: chocolate;
+}
+
+.btn-jkp {
+    width: 92px;
+    height: 25px;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+    margin: 6px 5px 13px 5px;
+    text-align: center;
+    outline-color: #fff;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    padding-bottom: 9px;
+    padding-top: 5px;
+}
+
+.vencedor {
+    width: 308px;
+    height: 18px;
+    background-color: #fff;
+    margin: 0px auto;
+    border-radius: 7px;
+    font-size: 16px;
+    color: #000;
+    padding: 4px 0;
+}
+
+.btn-novo {
+    width: 29px;
+    height: 15px;
+    float: right;
+    margin-top: -50px;
+    margin-right: 11px;
+    font-size: 9px;
+    background-color: cornsilk;
+    border: none;
+    border-radius: 2px solid #fff;
+    cursor: pointer;
+    outline-color: #fff;
+    padding: 0px;
+}
