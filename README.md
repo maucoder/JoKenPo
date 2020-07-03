@@ -5,5 +5,8 @@
 - Jogar contra o computador.
 - Função para novo jogo.
 - Função para zerar placar.
+## Para rodar:
+- Apenas faça o download ou clone o projeto.
+- Abra o index.html no navegador.
 
 Imagem das mãos, créditos: rawpixel.com
